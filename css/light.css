@@ -255,6 +255,6 @@ Author URL: https://themeforest.net/user/codesymbol/
 */
 
 .image-caption, .next, .prev {
-    background-color: transparent;
-    color:#fff;
+    background-color: transparent!important;
+    color:#fff!important;
 }
