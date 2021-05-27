@@ -2284,6 +2284,8 @@ Author URL: https://themeforest.net/user/codesymbol/
         }
         .gallery.grid figure figcaption {
             bottom: 35px;
+            color: #fff;
+            background: transparent!important;
         }
         .gallery.grid.low-space figure figcaption {
             bottom: 20px;
